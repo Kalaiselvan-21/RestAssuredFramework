@@ -1,0 +1,42 @@
+<store>
+    <book>
+        <author>Nigel Rees</author>
+        <category>fiction</category>
+        <price>150.5</price>
+        <title>Sayings of the Century</title>
+        <country>
+            <countryName>India</countryName>
+            <countryName>China</countryName>
+        </country>
+    </book>
+    <book>
+        <author>Evelyn Waugh</author>
+        <category>fiction</category>
+        <price>200.0</price>
+        <title>A Handful of Dust</title>
+    </book>
+    <book>
+        <author>J.K. Rowling</author>
+        <category>fantasy</category>
+        <price>350.0</price>
+        <title>Harry Potter and the Philosopher's Stone</title>
+    </book>
+    <book>
+        <author>J.R.R. Tolkien</author>
+        <category>fantasy</category>
+        <price>450.75</price>
+        <title>The Lord of the Rings</title>
+    </book>
+    <book>
+        <author>F. Scott Fitzgerald</author>
+        <category>classic</category>
+        <price>299.99</price>
+        <title>The Great Gatsby</title>
+    </book>
+    <book>
+        <author>Harper Lee</author>
+        <category>classic</category>
+        <price>250.0</price>
+        <title>To Kill a Mockingbird</title>
+    </book>
+</store>

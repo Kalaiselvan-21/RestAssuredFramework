@@ -1,0 +1,44 @@
+{
+		"store": {
+			"book": [
+		{
+			"author": "Nigel Rees",
+			"category": "fiction",
+			"price": 150.5,
+			"title": "Sayings of the Century",
+			"country": ["India", "China"]
+			
+		},
+		{
+			"author": "Evelyn Waugh",
+			"category": "fiction",
+			"price": 200.0,
+			"title": "A Handful of Dust"
+		},
+		{
+			"author": "J.K. Rowling",
+			"category": "fantasy",
+			"price": 350.0,
+			"title": "Harry Potter and the Philosopher's Stone"
+		},
+		{
+			"author": "J.R.R. Tolkien",
+			"category": "fantasy",
+			"price": 450.75,
+			"title": "The Lord of the Rings"
+		},
+		{
+			"author": "F. Scott Fitzgerald",
+			"category": "classic",
+			"price": 299.99,
+			"title": "The Great Gatsby"
+		},
+		{
+			"author": "Harper Lee",	
+			"category": "classic",
+			"price": 250.0,
+			"title": "To Kill a Mockingbird"
+		}
+	]
+}
+}
